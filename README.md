@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Resoluções BeeCrowd Python
 
 Rápida descrição do objetivo de fazer esse projeto
 
